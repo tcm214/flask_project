@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"datetime",
+				"datetime"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"inco",
+				"incoming_sms"
+			],
+			[
+				"body",
+				"body_array"
+			],
+			[
+				"consu",
+				"consumer_secret"
+			],
+			[
+				"stae",
+				"state_list"
+			],
+			[
+				"workout_",
+				"workout_notes"
+			],
+			[
+				"workout",
+				"workout_distance"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"list",
+				"list_activities"
+			],
+			[
+				"wok",
+				"workout_distance"
+			],
+			[
+				"tar",
+				"target_row"
+			],
+			[
+				"target",
+				"target_col"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"acti",
+				"activities"
+			],
+			[
+				"include",
+				"includeAllEfforts"
+			],
+			[
+				"reg",
+				"region_check"
+			],
+			[
+				"results",
+				"results_array"
+			],
+			[
+				"result",
+				"results_array"
+			],
+			[
+				"boys",
+				"boys_or_girls"
+			],
+			[
+				"boy",
+				"boysxc"
+			],
+			[
+				"bo",
+				"boys_or_girls"
+			],
+			[
+				"res",
+				"results_location"
+			],
+			[
+				"in",
+				"insert_data_string"
+			],
+			[
+				"create_",
+				"create_table_string"
+			],
+			[
+				"create",
+				"create_table_string"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"C",
+				"Contacts"
+			],
+			[
+				"run",
+				"run_type_list"
+			],
+			[
+				"new",
+				"new_min"
+			],
+			[
+				"min",
+				"min_per_mile"
+			],
+			[
+				"pac",
+				"pace_sec"
+			],
+			[
+				"select_by_v",
+				"select_by_visible_text"
+			],
+			[
+				"r2w",
+				"r2w_login"
+			],
+			[
+				"shoe",
+				"shoe_picker"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"comments",
+				"comments_field"
+			],
+			[
+				"am_",
+				"am_run_yn"
+			],
+			[
+				"date",
+				"date_N_days_ago"
+			],
+			[
+				"am",
+				"am_run_yn"
+			],
+			[
+				"select",
+				"select_by_value"
+			],
+			[
+				"run_",
+				"run_distance"
+			],
+			[
+				"dept",
+				"dept"
+			],
+			[
+				"churn",
+				"churn_dic"
+			],
+			[
+				"fou",
+				"found_files"
+			],
+			[
+				"max",
+				"max_goal_pct"
+			],
+			[
+				"mi",
+				"min_goal_pct"
+			],
+			[
+				"goal",
+				"goal_pct"
+			],
+			[
+				"calc",
+				"calc_hr"
+			],
+			[
+				"min_",
+				"min_goal_hr"
+			],
+			[
+				"resting",
+				"resting_hr"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"dl",
+				"dl_filepath"
+			],
+			[
+				"pd",
+				"pdf_to_text"
+			],
+			[
+				"dl_fi",
+				"dl_filepath"
+			],
+			[
+				"file",
+				"filename_input"
+			],
+			[
+				"doc",
+				"doc_types"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"temp_fi",
+				"temp_filename"
+			],
+			[
+				"exit",
+				"exit_yn"
+			],
+			[
+				"fil",
+				"filename_array"
+			],
+			[
+				"temp",
+				"temp_filepath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "flask_project/__init__.py",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "run.py",
+			"settings":
+			{
+				"buffer_size": 83,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "flask_project/routes.py",
+			"settings":
+			{
+				"buffer_size": 1378,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "flask_project/forms.py",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "flask_project/models.py",
+			"settings":
+			{
+				"buffer_size": 939,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 255.0,
+		"last_filter": "python",
+		"selected_items":
+		[
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 1080.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/static/main.css",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/templates/register.html",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/templates/login.html",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/templates/layout.html",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/templates/home.html",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/templates/about.html",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/models.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/forms.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/flask_project.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/flask_project/flask_project/init.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/wolf_text/venv/Scripts/send_sms3.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/wolf_text/venv/Scripts/send_sms2.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/main.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/venv/Lib/site-packages/get_strava_token.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/venv/Lib/site-packages/stravaio.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/deleterows.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/my_spotipy/my_spotipy.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/my_spotipy/venv/Lib/site-packages/spotipy/client.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/my_spotipy/venv/Lib/site-packages/spotipy/util.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/my_spotipy/venv/Lib/site-packages/spotipy/__init__.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/spotipy.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/spotipy",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/venv/Lib/site-packages/ezsheets/__init__.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/dumppdf.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/strava_scraper_test.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/strava_scraper2.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/strava_scraper.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/copy_rows_cols.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/venv/Lib/site-packages/swagger_client/api/activities_api.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/venv/Lib/site-packages/swagger_client/configuration.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insert79+.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/read16.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/read79+.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper/strava_scraper_test",
+		"/C/Users/tcm21/Anaconda3/Scripts/strava_scraper.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/swagger_client/models/body1.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/resultScraper.py",
+		"/C/Users/tcm21/Anaconda3/running2win.py",
+		"/C/Users/tcm21/Anaconda3/r2w.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/boys15.py",
+		"/C/Users/tcm21/Anaconda3/build_test.py",
+		"/C/Users/tcm21/Anaconda3/update_shoes_v1.0.py",
+		"/C/Users/tcm21/Anaconda3/resume_pdf_miner.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/read79.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insert79.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/read14.py",
+		"/C/Users/tcm21/Anaconda3/readboys16.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/readgirls82.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/boys82.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insert84.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/read84.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insertboys82.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/boys11.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/girls15.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/readboys84.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insertgirls79.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/insertgirls82.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/readgirls79.py",
+		"/C/Users/tcm21/Anaconda3/docxtest.py",
+		"/C/Users/tcm21/Anaconda3/word2pdf.py",
+		"/C/Users/tcm21/Anaconda3/meetScorer.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/girls11.py",
+		"/C/Users/tcm21/Anaconda3/test1.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/FLXC/boys15",
+		"/C/Users/tcm21/Downloads/Automate_the_Boring_Stuff_onlinematerials/automate_online-materials/bulletPointAdder.py",
+		"/C/Users/tcm21/Anaconda3/xcdb.py",
+		"/C/Users/tcm21/Downloads/Automate_the_Boring_Stuff_onlinematerials/automate_online-materials/getDocxText.py",
+		"/C/Users/tcm21/Anaconda3/Lib/configparser.py",
+		"/C/Users/tcm21/Anaconda3/update_shoes.py",
+		"/C/Users/tcm21/Anaconda3/salesforce.py",
+		"/C/Users/tcm21/Anaconda3/config.json",
+		"/C/Users/tcm21/Anaconda3/Lib/__pycache__/configparser.cpython-36.pyc",
+		"/C/Users/tcm21/Anaconda3/trackbot.py",
+		"/C/Users/tcm21/Anaconda3/fantasy_football.py",
+		"/C/Users/tcm21/Anaconda3/brief_response.py",
+		"/C/Users/tcm21/Anaconda3/pace_converter.py",
+		"/C/Users/tcm21/Anaconda3/Lib/py_compile.py",
+		"/C/Users/tcm21/Anaconda3/btc.py",
+		"/C/Users/tcm21/Anaconda3/churn_glossary.py",
+		"/C/Users/tcm21/Anaconda3/py_ex.py",
+		"/C/Users/tcm21/Anaconda3/hr_calculator.py",
+		"/C/Users/tcm21/Anaconda3/walktest.py",
+		"/C/Users/tcm21/Anaconda3/fico_example.py",
+		"/C/Users/tcm21/Anaconda3/dictest.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/pdfpractice.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/findFormatDates.py",
+		"/C/Users/tcm21/Anaconda3/Scripts/pdf2txt.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/censusproject.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/isPhoneNumber2.py",
+		"/C/Users/tcm21/Anaconda3/pdf_miner_example.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/menuproject.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/numpy/core/__init__.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/numpy/core/multiarray.cp36-win32.pyd",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/numpy/__init__.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/sfscrape.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/xkcdproject.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/isPhoneNumber.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/googletabs.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/watch_cye.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/candidate_excel.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/census2010.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/brief_response.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/reddit_bot.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/gameInventory.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/sublimehelloworld.py",
+		"/C/Users/tcm21/AppData/Local/Programs/Python/Python36-32/guessTheNumber.py",
+		"/C/Users/tcm21/AppData/Roaming/Sublime Text 3/Installed Packages/0_package_control_loader.sublime-package",
+		"/C/Users/tcm21/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"client",
+			"find_day",
+			"comment",
+			"_getTabColorArg",
+			"access_token",
+			"auth_settings",
+			"access_to",
+			"api_client",
+			"def api_client",
+			"api_client",
+			"getact",
+			"Object",
+			"exampleData",
+			" \n",
+			"cheserek",
+			"'state'",
+			"'region'",
+			"'grade'",
+			"'place'",
+			"'name'",
+			"Time",
+			"fullp",
+			"confi",
+			"fullp",
+			"index",
+			"shoes",
+			"yes_no",
+			"if"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "flask_project/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "run.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "flask_project/routes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "flask_project/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "flask_project/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "flask_project.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 465.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
